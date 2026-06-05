@@ -1,0 +1,25 @@
+=========================================
+COVER PAGE
+Title: Fallback Research Brief on 'great wall of world'
+Topic: 'great wall of world'
+Author: Autonomous Research Agent
+=========================================
+
+# Fallback Research Brief on 'great wall of world'
+
+## Introduction
+This report was generated with the local knowledge base and direct web-search results because the Ollama model was unavailable during execution.
+
+## Key Findings
+- Web search unavailable: ('error sending request for url (https://html.duckduckgo.com/html/)', 'https://html.duckduckgo.com/html/')
+
+## Challenges
+- The local Ollama model could not be used for synthesis during this run.
+- The topic is evolving quickly, so conclusions should be refreshed with a working model for richer analysis.
+- Web search unavailable: ('error sending request for url (https://html.duckduckgo.com/html/)', 'https://html.duckduckgo.com/html/')
+
+## Future Scope
+Future runs can generate a more comprehensive synthesis once a local Ollama model is available. The foundational context remains: Foundational Knowledge: AI is rapidly transforming modern industries through automation and predictive analytics.
+
+## Conclusion
+This run completed with a fallback path so the project could still produce an output file. Ollama reported: ('error sending request for url (https://www.mojeek.com/search?q=great+wall+of+world)', 'https://www.mojeek.com/search?q=great+wall+of+world')
